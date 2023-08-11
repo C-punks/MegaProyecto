@@ -3,6 +3,6 @@
 
 int main ()
 {
- 	printf ("Hola Pipe");
+ 	printf ("Chao Pipe");
 	return 0;
 }
